@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yogeshsaini469
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning Angular,Node.js,Express.js,MogoDB
-- 💞️ I’m looking to collaborate on ...Front-end Web Development Technics
-- 📫 How to reach me ...Just mail me on Yogesh4691@outlook.com
+- 👋 Hi, I’m Yogesh Kumar
+- 👀 I’m a Web Developer
+- 🌱 My skills are Angular,React,Node.js,Express.js,MogoDB,SQL,Javascript,css,html,Wordpress
+- 💞️ I’m looking to collaborate on ...Full Stack Web Development Technics
+- 📫 How to reach me ...Just mail me on yogeshsaini469@gmail.com
 
 <!---
 yogeshsaini469/yogeshsaini469 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
