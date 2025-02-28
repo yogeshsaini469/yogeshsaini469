@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogesh Kumar
 - 👀 I’m a Web Developer
-- 🌱 My skills are React,Node.js,Express.js,MogoDB,SQL,Javascript,css,html,Wordpress
+- 🌱 My skills are Next js, React, Node.js, Express.js, MogoDB, SQL, Javascript, css, html, Wordpress
 - 💞️ I’m looking to collaborate on ...Full Stack Web Development Technics
 - 📫 How to reach me ...Just mail me on yogeshsaini469@gmail.com
 
